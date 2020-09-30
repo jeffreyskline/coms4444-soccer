@@ -917,4 +917,3 @@ public class Player extends sim.Player {
 		}
 		return losingGames;
 	}
-}
